@@ -89,3 +89,18 @@ Another challange was learning homograpgy and perspective transform in order to 
 
 ![Product 3 - Example ](https://raw.githubusercontent.com/ahmetturkmen/CV-P1-2019-2020/master/data_/products/t1_product.jpg)
 
+
+## Results
+
+![Results-1 ](https://raw.githubusercontent.com/ahmetturkmen/CV-P1-2019-2020/master/results/result_1.png)
+
+![Results-2 ](https://raw.githubusercontent.com/ahmetturkmen/CV-P1-2019-2020/master/results/result_2.png)
+
+![Results-3 ](https://raw.githubusercontent.com/ahmetturkmen/CV-P1-2019-2020/master/results/result_3.png)
+
+![Results-4 ](https://raw.githubusercontent.com/ahmetturkmen/CV-P1-2019-2020/master/results/result_4.png)
+
+![Results-5 ](https://raw.githubusercontent.com/ahmetturkmen/CV-P1-2019-2020/master/results/result_5.png)
+
+
+
